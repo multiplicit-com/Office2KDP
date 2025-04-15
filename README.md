@@ -89,6 +89,11 @@ Open an [issue](https://github.com/yourusername/office2kdp/issues) or submit a p
 
 ## 💬 Project Status
 
-✅ Word + Excel interior tools: **Complete**  
-🛠️ PowerPoint cover generator: **Coming soon**  
-🛠️ Publisher integration: **Planned**
+✅ Word manuscript .docx trim calculator: **Complete**  
+✅ Word manuscript .pdf trim calculator: **Complete**  
+✅ Word manuscript .docx file generator: **Complete**  
+✅ Cover manuscript trim/size calculator, inches, cm, pixels: **Complete**  
+🛠️ PowerPoint cover calculator and file generator: **Coming soon**  
+🛠️ PowerPoint manuscript caclulator and file generator: **Coming soon**  
+🛠️ Publisher cover calculator and file generator: **Coming soon**  
+🛠️ Publisher manuscript caclulator and file generator: **Coming soon**  
