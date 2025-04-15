@@ -9,20 +9,14 @@ This project follows [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [0.5.1]  
+### Due in next release 🎉
+- ✅ Settings summary auto-generated inside the exported Word document
+
+
 ## [0.5.0] – 2025-04-15  
 ### Initial Public Release 🎉
-
-- ✅ Word export macro finalised with:
-  - Mirror margins using left/right margin logic
-  - Header/footer spacing
-  - Section start (Odd, Even, New Page) via dropdown and lookup table
-  - Page orientation auto-calculated from trim size
-- ✅ Cover generator logic complete:
-  - DPI-based pixel output
-  - Spine width based on page count and binding type
-  - Optional overhang (for hardcover)
-  - Bleed settings and rounding logic
-- ✅ Settings summary auto-generated inside the exported Word document
+- ✅ Project released ot the public
 - ✅ New Branded logo added to repository
 - ✅ `README.md`, `LICENSE`, and `CHANGELOG.md` created
 
@@ -36,6 +30,16 @@ This project follows [Semantic Versioning](https://semver.org/).
 - ⚙️ Fallbacks and error handling for missing ranges
 - 💬 User prompt for file save
 - ✅ Word metadata injected (title, author, comments, subject)
+- ✅ Word export macro finalised with:
+  - Mirror margins using left/right margin logic
+  - Header/footer spacing
+  - Section start (Odd, Even, New Page) via dropdown and lookup table
+  - Page orientation auto-calculated from trim size
+- ✅ Cover generator logic complete:
+  - DPI-based pixel output
+  - Spine width based on page count and binding type
+  - Optional overhang (for hardcover)
+  - Bleed settings and rounding logic
 
 ---
 
