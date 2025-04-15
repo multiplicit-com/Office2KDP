@@ -1,14 +1,15 @@
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-
-Copyright 2025 Steve Lownds — https://www.multiplicit.co.uk
+Copyright 2025 Steven Lownds — https://www.multiplicit.co.uk
 
 You are free to:
 - Share — copy and redistribute the material in any medium or format
 - Adapt — remix, transform, and build upon the material
 
 Under the following terms:
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. Example:  
-  "Based on Office2KDP by Steve Lownds (https://www.multiplicit.co.uk)"
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- Examples:  
+  "Based on Office2KDP by Steven Lownds (https://www.multiplicit.co.uk)"
+  "Based on Office2KDP by https://www.multiplicit.co.uk".
 
 - **NonCommercial** — You may not use the material for commercial purposes.  
   This includes selling the tool, incorporating it into commercial products or services, or charging for access to it.
