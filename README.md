@@ -3,6 +3,10 @@
 </p>
 
 # Office2KDP
+![version](https://img.shields.io/badge/version-v0.5.0-blue)
+![status](https://img.shields.io/badge/status-active-brightgreen)
+![roadmap](https://img.shields.io/badge/roadmap-PowerPoint%20+%20Publisher%20coming%20soon-yellow)
+
 
 **Office2KDP** is an Excel-powered publishing toolkit designed for KDP authors and publishers who use Microsoft Office. 
 It automates the setup of KDP-ready interior files and book covers using familiar tools like Word, Excel, and PowerPoint — no design software or advanced formatting required.
