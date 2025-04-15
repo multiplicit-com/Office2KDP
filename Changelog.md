@@ -3,6 +3,10 @@
 </p>
 
 # 📦 Office2KDP – Changelog
+![version](https://img.shields.io/badge/version-v0.5.0-blue)
+![status](https://img.shields.io/badge/status-active-brightgreen)
+![roadmap](https://img.shields.io/badge/roadmap-PowerPoint%20+%20Publisher%20coming%20soon-yellow)
+
 
 All notable changes to this project are documented here.  
 This project follows [Semantic Versioning](https://semver.org/).
