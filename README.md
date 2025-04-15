@@ -74,7 +74,9 @@ Books, manuscripts, and documents **created using this tool** may be used commer
 ## 🙌 Author
 
 **Steven Lownds**  
-🔗 [https://www.multiplicit.co.uk](https://www.multiplicit.co.uk)
+🔗 [https://www.multiplicit.co.uk](https://www.multiplicit.co.uk)  
+🔗 [https://www.linkedin.com/in/stevenlownds](https://www.linkedin.com/in/stevenlownds)
+
 
 ---
 
