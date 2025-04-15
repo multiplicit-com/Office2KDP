@@ -11,10 +11,9 @@ This tool can act as a calculator to add settings to your own files, or generate
 
 - 📄 **Export KDP-formatted Word manuscript templates** with perfect margins, headers, and gutter settings
 - 📊 **Interactive trim size and margin calculator** powered by named ranges and dropdowns
-- 📎 **Smart Word macro** that builds a new document with all the correct layout settings
-- 📐 **Cover dimension calculator** based on trim size, spine width, bleed, DPI, and binding
-- 📋 **System compatibility checker** for Word, PowerPoint, and Publisher availability
-- 🔒 **CC BY-NC 4.0 license** – free for personal and commercial book use, but the tool itself can't be sold or commercialised
+-  📐 **Cover dimension calculator** based on trim size, spine width, bleed, DPI, and binding
+- 📎 **Smart VBA macros** that build a new documents with all the correct layout settings
+- 🔒 **CC BY-NC 4.0 license** – can be used to create personal and commercial manuscripts, but this tool itself (or its dreivatives) cannot be sold or commercialised
 
 ---
 
@@ -26,7 +25,7 @@ This tool can act as a calculator to add settings to your own files, or generate
 
 ---
 
-## 📦 What's Included
+## 📦 What's Included?
 
 - `KDP Trim Size Calculator with Macros.xlsm`  
   The full Excel workbook with:
@@ -70,7 +69,7 @@ Books, manuscripts, and documents **created using this tool** may be used commer
 
 ## 🙌 Author
 
-**Steve Lownds**  
+**Steve. Lownds**  
 🔗 [https://www.multiplicit.co.uk](https://www.multiplicit.co.uk)
 
 ---
