@@ -1,4 +1,8 @@
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+<p align="center">
+  <img src="assets/Logo_1000x600.png" alt="Office2KDP Logo" width="300">
+</p>
+
+#Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 Copyright 2025 Steven Lownds — https://www.multiplicit.co.uk
 
 You are free to:
