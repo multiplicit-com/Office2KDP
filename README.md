@@ -7,7 +7,7 @@
 **Office2KDP** is an Excel-powered publishing toolkit designed for authors and indie publishers who use Microsoft Office. 
 It automates the setup of KDP-ready interior files and book covers using familiar tools like Word, Excel, and PowerPoint — no design software or advanced formatting required.
 
-This tool can act as a calculator to add settings to your own files, or generate ready-to-edit document templates.
+This tool can act as a calculator to work out dimensions and settings for your own files, or generate ready-to-edit document templates.
 
 ---
 
