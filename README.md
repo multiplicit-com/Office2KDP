@@ -31,14 +31,14 @@ This tool can act as a calculator to add settings to your own files, or generate
 
 ## 📦 What's Included?
 
-- `Office2KDP.xlsm`  
+- 'Office2KDP.xlsm'  
   The full Excel workbook with:
   - Settings, named ranges, and templates
   - Word export macro (`CreateKDPWordTemplate`)
   - Cover builder and DPI converter
   - Visual overviews for Word layout and cover dimensions
 
-Please note this workbook is in '.xlsm' format because it contains VBA macros. You may receive security warnings. Please run any security checks you feel appropriate before you open this file, especially if it does not come from the official Github repository. 
+> Please note this workbook is in '.xlsm' format because it contains VBA macros. You may receive security warnings. Please run any security checks you feel appropriate before you open this file, especially if it does not come from the official Github repository. 
 
 ---
 
@@ -48,8 +48,6 @@ Please note this workbook is in '.xlsm' format because it contains VBA macros. Y
 2. Choose your trim size, paper type, margins, header/footer settings, and page count
 3. Click **Create Word Template** to generate a ready-to-write `.docx` file
 4. Customize your content and upload directly to KDP
-
-> Bonus: A summary of your settings is embedded at the top of each Word document for reference.
 
 ---
 
