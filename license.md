@@ -4,7 +4,7 @@
 
 *Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)*
 
-Copyright 2025 Steven Lownds — [ https://www.multiplicit.co.uk/](https://www.multiplicit.co.uktt/)
+Copyright 2025 Steven Lownds — [https://www.multiplicit.co.uk/](https://www.multiplicit.co.uk/office2kdp-a-free-tool-to-create-kdp-ready-word-templates/)
 
 You are free to:
 - Share — copy and redistribute the material in any medium or format
