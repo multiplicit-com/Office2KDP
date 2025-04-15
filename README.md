@@ -61,7 +61,7 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial 4
 
 You may use, modify, and distribute this tool **non-commercially** with proper attribution:
 
-> *"Based on Office2KDP by [Steve Lownds](https://www.multiplicit.co.uk)"*
+> *"Based on Office2KDP by [Steven Lownds](https://www.multiplicit.co.uk)"*
 
 Books, manuscripts, and documents **created using this tool** may be used commercially.
 
@@ -69,7 +69,7 @@ Books, manuscripts, and documents **created using this tool** may be used commer
 
 ## 🙌 Author
 
-**Steve. Lownds**  
+**Steven Lownds**  
 🔗 [https://www.multiplicit.co.uk](https://www.multiplicit.co.uk)
 
 ---
