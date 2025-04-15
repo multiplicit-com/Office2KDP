@@ -1,2 +1,86 @@
 # Office2KDP
-Struggling with trim sizes, margins and spine size for your next masterpiece? Office2KDP is a toolkit to create and export kdp book interior and cover templates for MS Word, Publisher PowerPoint. 
+
+**Office2KDP** is an Excel-powered publishing toolkit designed for authors and indie publishers who use Microsoft Office. It automates the setup of KDP-ready interior files and book covers using familiar tools like Word, Excel, and PowerPoint — no design software or advanced formatting required.
+
+---
+
+## ✨ Features
+
+- 📄 **Export KDP-formatted Word manuscripts** with perfect margins, headers, and gutter settings
+- 📊 **Interactive trim size and margin calculator** powered by named ranges and dropdowns
+- 📎 **Smart Word macro** that builds a new document with all the correct layout settings
+- 📐 **Cover dimension calculator** based on trim size, spine width, bleed, DPI, and binding
+- 📋 **System compatibility checker** for Word, PowerPoint, and Publisher availability
+- 🔒 **CC BY-NC 4.0 license** – free for personal and commercial book use, but the tool itself can't be sold or commercialised
+
+---
+
+## 🚧 Coming Soon
+
+- 🎨 PowerPoint export macro for cover creation (including overhang and bleed support)
+- 🖨️ Publisher integration for booklet-style and print-ready export
+- 📁 Additional format profiles and file layout options
+
+---
+
+## 📦 What's Included
+
+- `KDP Trim Size Calculator with Macros.xlsm`  
+  The full Excel workbook with:
+  - Settings, named ranges, and templates
+  - Word export macro (`CreateKDPWordTemplate`)
+  - Cover builder and DPI converter
+  - Visual overviews for Word layout and cover dimensions
+
+---
+
+## 🚀 How to Use
+
+1. Open the Excel file in a macro-enabled version of Microsoft Office (Windows recommended)
+2. Choose your trim size, paper type, margins, header/footer settings, and page count
+3. Click **Create Word Template** to generate a ready-to-write `.docx` file
+4. Customize your content and upload directly to KDP
+
+> Bonus: A summary of your settings is embedded at the top of each Word document for reference.
+
+---
+
+## 🧰 Requirements
+
+- Microsoft Excel + Word (Office 2016 or later recommended)
+- Macros must be enabled (VBA-powered)
+- Windows OS (macOS may have limited macro support)
+
+---
+
+## 📜 License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+You may use, modify, and distribute this tool **non-commercially** with proper attribution:
+
+> *"Based on Office2KDP by [Steve Lownds](https://www.multiplicit.co.uk)"*
+
+Books, manuscripts, and documents **created using this tool** may be used commercially.
+
+---
+
+## 🙌 Author
+
+**Steve Lownds**  
+🔗 [https://www.multiplicit.co.uk](https://www.multiplicit.co.uk)
+
+---
+
+## 📣 Feedback & Contributions
+
+Have a suggestion, bug report, or want to contribute?  
+Open an [issue](https://github.com/yourusername/office2kdp/issues) or submit a pull request.
+
+---
+
+## 💬 Project Status
+
+✅ Word + Excel interior tools: **Complete**  
+🛠️ PowerPoint cover generator: **Coming soon**  
+🛠️ Publisher integration: **Planned**
