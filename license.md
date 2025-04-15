@@ -8,7 +8,7 @@ You are free to:
 Under the following terms:
 - **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 - Examples:  
-  "Based on Office2KDP by Steven Lownds (https://www.multiplicit.co.uk)"
+  "Based on Office2KDP by Steven Lownds (https://www.multiplicit.co.uk)",
   "Based on Office2KDP by https://www.multiplicit.co.uk".
 
 - **NonCommercial** — You may not use the material for commercial purposes.  
