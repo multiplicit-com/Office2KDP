@@ -31,12 +31,14 @@ This tool can act as a calculator to add settings to your own files, or generate
 
 ## 📦 What's Included?
 
-- `KDP Trim Size Calculator with Macros.xlsm`  
+- `Office2KDP.xlsm`  
   The full Excel workbook with:
   - Settings, named ranges, and templates
   - Word export macro (`CreateKDPWordTemplate`)
   - Cover builder and DPI converter
   - Visual overviews for Word layout and cover dimensions
+
+Please note this workbook is in '.xlsm' format because it contains VBA macros. You may receive security warnings. Please run any security checks you feel appropriate before you open this file, especially if it does not come from the official Github repository. 
 
 ---
 
