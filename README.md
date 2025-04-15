@@ -4,7 +4,7 @@
 
 # Office2KDP
 
-**Office2KDP** is an Excel-powered publishing toolkit designed for authors and indie publishers who use Microsoft Office. 
+**Office2KDP** is an Excel-powered publishing toolkit designed for KDP authors and publishers who use Microsoft Office. 
 It automates the setup of KDP-ready interior files and book covers using familiar tools like Word, Excel, and PowerPoint — no design software or advanced formatting required.
 
 This tool can act as a calculator to work out dimensions and settings for your own files, or generate ready-to-edit document templates.
@@ -13,7 +13,7 @@ This tool can act as a calculator to work out dimensions and settings for your o
 
 ## ✨ Features
 
-- 📄 **Export KDP-formatted Word manuscript templates** with perfect margins, headers, and gutter settings
+- 📄 **Export Amazon KDP-formatted Word manuscript templates** with perfect margins, headers, and gutter settings
 - 📊 **Interactive trim size and margin calculator** powered by named ranges and dropdowns
 -  📐 **Cover dimension calculator** based on trim size, spine width, bleed, DPI, and binding
 - 📎 **Smart VBA macros** that build a new documents with all the correct layout settings
