@@ -21,6 +21,24 @@ This tool can act as a calculator to add settings to your own files, or generate
 
 ---
 
+## 🧭 Quick Instructions
+
+1. Open the Excel file and go to the **`Your Document`** tab.
+2. Use the dropdowns and input fields to configure your document:
+   - Trim size
+   - Page count
+   - Margins, headers/footers, gutter
+   - Cover DPI and bleed settings
+   - Output format (Word, PDF, PowerPoint, etc.)
+3. Once your settings are complete, visit the appropriate output tab:
+   - **`MS Word (.docx)`** – for Word interior layout instructions or export
+   - **`MS Word (.pdf)`** – for bleed-safe print layout setup
+4. (Optional) Use the built-in button to generate a preformatted Word document using your settings.
+
+Everything updates automatically — no need to adjust formulas.
+
+---
+
 ## 🚧 Coming Soon
 
 - 🎨 PowerPoint export macro for cover creation (including overhang and bleed support)
