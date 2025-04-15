@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/Logo_1000x600.png" alt="Office2KDP Logo" width="400">
+</p>
+
 # Office2KDP
 
 **Office2KDP** is an Excel-powered publishing toolkit designed for authors and indie publishers who use Microsoft Office. 
