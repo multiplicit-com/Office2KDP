@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Logo_1000x600.png" alt="Office2KDP Logo" width="400">
+  <img src="assets/Logo_1000x600.png" alt="Office2KDP Logo" width="300">
 </p>
 
 # Office2KDP
