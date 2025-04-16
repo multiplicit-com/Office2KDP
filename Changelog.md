@@ -24,6 +24,7 @@ This project follows [Semantic Versioning](https://semver.org/).
 - ✅ Project released ot the public
 - ✅ New Branded logo added to repository
 - ✅ `README.md`, `LICENSE`, and `CHANGELOG.md` created
+- ✅ Github Wiki documentation created: https://github.com/multiplicit-com/Office2KDP/wiki
 
 ---
 
