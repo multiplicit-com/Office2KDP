@@ -2,7 +2,7 @@
   <img src="assets/Logo_1000x600.png" alt="Office2KDP Logo" width="300">
 </p>
 
-# Office2KDP
+# Office2KDP Readme
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/multiplicit-com/Office2KDP?label=version)
 ![status](https://img.shields.io/badge/status-active-brightgreen)
 ![roadmap](https://img.shields.io/badge/roadmap-PowerPoint%20+%20Publisher%20coming%20soon-yellow)
