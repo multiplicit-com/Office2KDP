@@ -13,8 +13,9 @@ This project follows [Semantic Versioning](https://semver.org/).
 
 ---
 
-## Due in next release [0.5.1] 🎉
+## [0.5.1]  – 2025-04-16
 - ✅ Settings summary auto-generated inside the exported Word document
+- ⚠️ Fixed incorrect formula for header and footer distance
 
 ---
 
