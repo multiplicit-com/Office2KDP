@@ -20,7 +20,7 @@ This project follows [Semantic Versioning](https://semver.org/).
 
 ## [0.5.0] – 2025-04-15  
 ### Initial Public Release 🎉
-- ✅ Project released ot the public
+- ✅ Project released to the public
 - ✅ New Branded logo added to repository
 - ✅ `README.md`, `LICENSE`, and `CHANGELOG.md` created
 - ✅ Github Wiki documentation created: https://github.com/multiplicit-com/Office2KDP/wiki
