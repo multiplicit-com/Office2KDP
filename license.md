@@ -2,6 +2,7 @@
   <img src="assets/Logo_1000x600.png" alt="Office2KDP Logo" width="300">
 </p>
 
+# Office2KDP License
 *Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)*
 
 Copyright 2025 Steven Lownds — [https://www.multiplicit.co.uk/](https://www.multiplicit.co.uk/office2kdp-a-free-tool-to-create-kdp-ready-word-templates/)
