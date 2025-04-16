@@ -13,8 +13,7 @@ This project follows [Semantic Versioning](https://semver.org/).
 
 ---
 
-## [0.5.1]  
-### Due in next release 🎉
+## Due in next release [0.5.1] 🎉
 - ✅ Settings summary auto-generated inside the exported Word document
 
 ---
