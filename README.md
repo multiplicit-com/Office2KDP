@@ -43,7 +43,8 @@ Everything updates automatically — no need to adjust formulas.
 
 ---
 ## Support
-More information abotu usingand extending Office2KDP can be found in the Github Wiki: https://github.com/multiplicit-com/Office2KDP/wiki
+More information about usingand extending Office2KDP can be found in the Github Wiki: https://github.com/multiplicit-com/Office2KDP/wiki
+
 ---
 
 ## 🚧 Coming Soon
