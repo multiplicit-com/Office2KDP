@@ -64,7 +64,7 @@ More information about using and extending Office2KDP can be found in the Github
   - Cover builder and DPI converter
   - Visual overviews for Word layout and cover dimensions
 
-> Please note this workbook is in '.xlsm' format because it contains VBA macros. You may receive security warnings. Please run any security checks you feel appropriate before you open this file, especially if it does not come from the official Github repository. 
+> Please note this workbook is in '.xlsm' format because it contains VBA macros. You may receive security warnings. Please run any security checks you feel appropriate before you open this file, and make sure it comes from the official Github repository. 
 
 ---
 
