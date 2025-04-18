@@ -92,7 +92,9 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial 4
 You may use, modify, and distribute this tool **non-commercially** with proper attribution:
 
 > *"Based on Office2KDP by [Steven Lownds](https://www.multiplicit.co.uk)"*
+
 >  *"Based on Office2KDP by [Multimplicit.co.uk](https://www.multiplicit.co.uk)"*
+
 > *"Based on Office2KDP: [https://github.com/multiplicit-com/Office2KDP/](https://github.com/multiplicit-com/Office2KDP/)"*
 
 Books, manuscripts, and documents **created using this tool** may be used commercially.
