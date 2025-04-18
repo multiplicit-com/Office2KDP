@@ -93,7 +93,7 @@ You may use, modify, and distribute this tool **non-commercially** with proper a
 
 > *"Based on Office2KDP by [Steven Lownds](https://www.multiplicit.co.uk)"*
 
->  *"Based on Office2KDP by [Multimplicit.co.uk](https://www.multiplicit.co.uk)"*
+>  *"Based on Office2KDP by [Multiplicit.co.uk](https://www.multiplicit.co.uk)"*
 
 > *"Based on Office2KDP: [https://github.com/multiplicit-com/Office2KDP/](https://github.com/multiplicit-com/Office2KDP/)"*
 
